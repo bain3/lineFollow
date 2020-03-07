@@ -1,0 +1,53 @@
+INFO 2019-12-08 21:50:32,316 : logging initialized
+WARNING 2019-12-08 21:50:32,350 : Cannot read fom video capture device on index 2. Defaulting to 0.
+CRITICAL 2019-12-08 21:50:32,558 : The video capture device didn't output a frame, exiting.
+INFO 2020-01-11 17:28:48,934 : logging initialized
+WARNING 2020-01-11 17:28:48,957 : Cannot read fom video capture device on index 2. Defaulting to 0.
+INFO 2020-01-11 17:28:58,225 : Exit. Last prediction was calculated in 0.437 seconds.
+INFO 2020-01-11 17:29:26,637 : logging initialized
+WARNING 2020-01-11 17:29:26,661 : Cannot read fom video capture device on index 2. Defaulting to 0.
+INFO 2020-01-11 17:29:30,240 : Exit. Last prediction was calculated in 0.115 seconds.
+INFO 2020-01-11 17:30:01,780 : logging initialized
+WARNING 2020-01-11 17:30:01,805 : Cannot read fom video capture device on index 3. Defaulting to 0.
+INFO 2020-01-11 17:30:04,869 : Exit. Last prediction was calculated in 0.117 seconds.
+INFO 2020-01-11 17:30:14,873 : logging initialized
+WARNING 2020-01-11 17:30:14,895 : Cannot read fom video capture device on index 4. Defaulting to 0.
+INFO 2020-01-11 17:30:19,652 : Exit. Last prediction was calculated in 0.119 seconds.
+INFO 2020-01-11 17:30:28,054 : logging initialized
+WARNING 2020-01-11 17:30:28,077 : Cannot read fom video capture device on index 1. Defaulting to 0.
+INFO 2020-01-11 17:30:31,239 : Exit. Last prediction was calculated in 0.115 seconds.
+INFO 2020-01-11 17:31:09,662 : logging initialized
+WARNING 2020-01-11 17:31:09,684 : Cannot read fom video capture device on index 1. Defaulting to 0.
+INFO 2020-01-11 17:31:12,037 : Exit. Last prediction was calculated in 0.114 seconds.
+INFO 2020-01-11 17:31:16,687 : logging initialized
+WARNING 2020-01-11 17:31:16,712 : Cannot read fom video capture device on index 2. Defaulting to 0.
+INFO 2020-01-11 17:31:18,834 : Exit. Last prediction was calculated in 0.11 seconds.
+INFO 2020-01-11 17:31:23,076 : logging initialized
+WARNING 2020-01-11 17:31:23,100 : Cannot read fom video capture device on index 3. Defaulting to 0.
+INFO 2020-01-11 17:31:25,253 : Exit. Last prediction was calculated in 0.118 seconds.
+INFO 2020-01-11 17:31:29,711 : logging initialized
+WARNING 2020-01-11 17:31:29,733 : Cannot read fom video capture device on index 4. Defaulting to 0.
+INFO 2020-01-11 17:31:31,889 : Exit. Last prediction was calculated in 0.113 seconds.
+INFO 2020-01-11 17:31:36,296 : logging initialized
+WARNING 2020-01-11 17:31:36,318 : Cannot read fom video capture device on index 5. Defaulting to 0.
+INFO 2020-01-11 17:31:38,408 : Exit. Last prediction was calculated in 0.113 seconds.
+INFO 2020-01-11 17:36:59,914 : logging initialized
+WARNING 2020-01-11 17:36:59,937 : Cannot read fom video capture device on index 2. Defaulting to 0.
+INFO 2020-01-11 17:37:04,009 : Exit. Last prediction was calculated in 0.116 seconds.
+INFO 2020-01-11 17:37:11,789 : logging initialized
+WARNING 2020-01-11 17:37:11,811 : Cannot read fom video capture device on index 1. Defaulting to 0.
+INFO 2020-01-11 17:37:14,990 : Exit. Last prediction was calculated in 0.123 seconds.
+INFO 2020-01-11 17:37:20,254 : logging initialized
+WARNING 2020-01-11 17:37:20,283 : Cannot read fom video capture device on index 3. Defaulting to 0.
+INFO 2020-01-11 17:37:26,039 : Exit. Last prediction was calculated in 0.116 seconds.
+INFO 2020-01-11 17:37:39,066 : logging initialized
+INFO 2020-01-11 17:38:21,453 : logging initialized
+INFO 2020-01-11 17:38:28,190 : logging initialized
+INFO 2020-01-11 17:41:39,088 : logging initialized
+INFO 2020-01-11 17:42:43,149 : logging initialized
+INFO 2020-01-11 17:43:02,241 : logging initialized
+INFO 2020-01-11 17:43:13,389 : logging initialized
+INFO 2020-01-11 17:44:00,254 : logging initialized
+INFO 2020-01-11 17:44:21,140 : Exit. Last prediction was calculated in 0.118 seconds.
+INFO 2020-01-11 17:44:40,735 : logging initialized
+INFO 2020-01-11 17:44:44,427 : Exit. Last prediction was calculated in 0.113 seconds.
